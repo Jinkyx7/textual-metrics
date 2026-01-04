@@ -1,0 +1,13 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter outputs
+textual-metrics/outputs/
+
+# Data files and local instructions
+reports/*.csv
+AGENTS.md
